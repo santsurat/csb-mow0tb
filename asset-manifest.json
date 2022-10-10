@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://santsurat.github.io/csb-mow0tb/static/css/main.aea5ff8f.chunk.css",
+    "main.js": "https://santsurat.github.io/csb-mow0tb/static/js/main.1d357e2d.chunk.js",
+    "main.js.map": "https://santsurat.github.io/csb-mow0tb/static/js/main.1d357e2d.chunk.js.map",
+    "runtime-main.js": "https://santsurat.github.io/csb-mow0tb/static/js/runtime-main.f3edbcde.js",
+    "runtime-main.js.map": "https://santsurat.github.io/csb-mow0tb/static/js/runtime-main.f3edbcde.js.map",
+    "static/js/2.887e82c3.chunk.js": "https://santsurat.github.io/csb-mow0tb/static/js/2.887e82c3.chunk.js",
+    "static/js/2.887e82c3.chunk.js.map": "https://santsurat.github.io/csb-mow0tb/static/js/2.887e82c3.chunk.js.map",
+    "index.html": "https://santsurat.github.io/csb-mow0tb/index.html",
+    "static/css/main.aea5ff8f.chunk.css.map": "https://santsurat.github.io/csb-mow0tb/static/css/main.aea5ff8f.chunk.css.map",
+    "static/js/2.887e82c3.chunk.js.LICENSE.txt": "https://santsurat.github.io/csb-mow0tb/static/js/2.887e82c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3edbcde.js",
+    "static/js/2.887e82c3.chunk.js",
+    "static/css/main.aea5ff8f.chunk.css",
+    "static/js/main.1d357e2d.chunk.js"
+  ]
+}
